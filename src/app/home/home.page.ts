@@ -13,7 +13,7 @@ export class HomePage {
   @ViewChild('swipeDown') swipeDown: any;
 
   public swiperConfig: any = {
-    slidesPerView: 3,
+    slidesPerView: 3.5,
     freeMode: true
   }
 
